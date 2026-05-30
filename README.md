@@ -28,11 +28,11 @@ I'm a Computer Science student deeply invested in becoming a proficient ML Engin
 
 ## 📌 Featured Projects
 
-### 🎮 [Nsolo](https://github.com/Nanetu/Nsolo)
-**Final Year Project** – An intelligent Nsolo game featuring classical AI algorithms. This project showcases AI decision-making, game logic, and algorithm optimization. Demonstrates my ability to build smart game systems from scratch.
+### 🎮 [N-Solo Game AI](https://github.com/Nanetu/nsolo-game)
+**Final Year Project** – An intelligent N-Solo game featuring classical AI algorithms. This project showcases AI decision-making, game logic, and algorithm optimization. Demonstrates my ability to build smart game systems from scratch.
 
 ### 📅 [Timetable Backend](https://github.com/Nanetu/timetable-backend)
-A robust backend service built with PHP for managing and optimizing class schedules. Features efficient data handling and RESTful API design.
+A robust backend service built with FastAPI/Django for managing and optimizing class schedules. Features efficient data handling and RESTful API design.
 
 ### 📖 [Bible Quiz - Java](https://github.com/Nanetu/bible-quiz)
 An interactive Bible trivia application built in Java. Showcases OOP principles, user interface design, and data management in a fun, educational format.
@@ -48,14 +48,6 @@ An interactive Bible trivia application built in Java. Showcases OOP principles,
   [View Badge](https://my.certifyme.online/static/fileStore/img/1520/7648/324911_badge_FB266E.png)
 
 - 🌍 **UbuntuNet Alliance 2024** – Participated as part of a team in the 2nd UbuntuNet Alliance conference, collaborating on innovative tech solutions.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanetu&theme=radical&show_icons=true&hide_title=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanetu&layout=compact&theme=radical)
 
 ---
 
@@ -75,7 +67,7 @@ I'm always excited to discuss machine learning, AI, DSA challenges, and collabor
 
 - 💼 **LinkedIn:** [linkedin.com/in/nanetu-mushongoma-45401b247](https://www.linkedin.com/in/nanetu-mushongoma-45401b247)
 - 🐙 **GitHub:** [@Nanetu](https://github.com/Nanetu)
-- 📧 **Email:** [Get in touch!](nanetumushongoma@gmail.com)
+- 📧 **Email:** nanetumushongoma@gmail.com
 
 ---
 
