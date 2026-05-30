@@ -28,8 +28,8 @@ I'm a Computer Science student deeply invested in becoming a proficient ML Engin
 
 ## 📌 Featured Projects
 
-### 🎮 [N-Solo Game AI](https://github.com/Nanetu/nsolo-game)
-**Final Year Project** – An intelligent N-Solo game featuring classical AI algorithms. This project showcases AI decision-making, game logic, and algorithm optimization. Demonstrates my ability to build smart game systems from scratch.
+### 🎮 [Nsolo Game AI](https://github.com/Nanetu/Nsolo)
+**Final Year Project** – An intelligent Nsolo game featuring classical AI algorithms. This project showcases AI decision-making, game logic, and algorithm optimization. Demonstrates my ability to build smart game systems from scratch.
 
 ### 📅 [Timetable Backend](https://github.com/Nanetu/timetable-backend)
 A robust backend service built with FastAPI/Django for managing and optimizing class schedules. Features efficient data handling and RESTful API design.
