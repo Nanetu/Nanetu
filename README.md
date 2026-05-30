@@ -63,7 +63,7 @@ A robust backend service built with FastAPI/Django for managing and optimizing c
 I'm always excited to discuss machine learning, AI, DSA challenges, and collaborate on interesting projects!
 
 - 💼 **LinkedIn:** [linkedin.com/in/nanetu-mushongoma-45401b247](https://www.linkedin.com/in/nanetu-mushongoma-45401b247)
-- 🐙 **GitHub:** [@Nanetu](https://github.com/Nanetu)
+- 🐙 **Portfolio:** [Nanetu](https://nanetu.vercel.app/)
 - 📧 **Email:** nanetumushongoma@gmail.com
 
 ---
